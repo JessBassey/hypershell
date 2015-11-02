@@ -1,0 +1,1 @@
+Hypershell alpha development source code is now available at GitHub: https://github.com/hypershell/hypershell
